@@ -3,9 +3,9 @@
 -  I am an 50 years young mechanical engineer (also firm in electrics)
 - 👀 I’m interested in 3D-Printing - Laser - galvanically gild/chrome/silver
 - I am running 3 printers (up to now ;-):
--     Anycubic Mega X
--     Creality Ender 3S1
--     Bambu Lab P1S
+    - Anycubic Mega X
+    - Creality Ender 3S1
+    - Bambu Lab P1S
 
 <!---
 Schmudus/Schmudus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
